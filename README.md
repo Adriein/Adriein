@@ -2,7 +2,9 @@
 
 I'm an old enough to love pokemon back end developer.
 
-I love to work with people that love coding and get excited when they see a clever, easy to read abstraction.
+I love to work with people that love coding and get excited when they see a clever, easy to read abstraction.  
+
+I love clean architecture and DDD development.
 
 ## Current projects
 
