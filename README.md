@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-💻 Started coding bots for an MMO called Tibia at 15  
+💻 Started coding bots for an MMO called Tibia at 15 yo.  
 
 🏗 Now I'm building complex enterprise applications with the invaluable help of clean architectures.
 
