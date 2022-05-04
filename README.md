@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-I'm an old enough to love pokemon back end developer.
+💻 Started coding bots for an MMO called Tibia at 15  
 
-I love to work with people that love coding and get excited when they see a clever, easy to read abstraction.  
+🏗 Now I'm building complex enterprise applications with the invaluable help of clean architectures.
 
-I love clean architecture and DDD development.
+🌱 Once you discover the power to create something you are trapped forever.  
+
+💬 Whats your favourite pokemon? And why Gengar?
 
 ## Current projects
 
@@ -20,7 +22,7 @@ I love clean architecture and DDD development.
 
 💻 Coding  
 ⛩ Anime  
-🌱 Gym lover  
+🌱 Fitness  
 
 ## Contact me
 
