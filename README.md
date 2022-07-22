@@ -6,8 +6,6 @@
 
 🌱 Once you discover the power to create something you are trapped forever.  
 
-💬 Whats your favourite pokemon? And why Gengar?
-
 ## Current projects
 
 >🥗 [Tabemano](https://github.com/Adriein/tabemano) - A web app that allow personal trainers to grow their business without losing quality.
