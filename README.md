@@ -9,6 +9,7 @@
 ## Current projects
 
 >🤖 [Tibia bot](https://github.com/Adriein/ac-bot-v2) - A full feature Pixel Bot
+
 >🥗 [Tomodachi] - Payment, booking system for personal trainers
 
 ## My values
