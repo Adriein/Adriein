@@ -4,11 +4,12 @@
 
 🏗 Now I'm building complex enterprise applications with the invaluable help of clean architectures.
 
-🌱 Once you discover the power to create something you are trapped forever.  
+🌱 Addicted to create useful products.  
 
 ## Current projects
 
->🥗 [Tabemano](https://github.com/Adriein/tabemano) - A web app that allow personal trainers to grow their business without losing quality.
+>🤖 [Tibia bot](https://github.com/Adriein/ac-bot-v2) - A full feature Pixel Bot
+>🥗 [Tomodachi] - Payment, booking system for personal trainers
 
 ## My values
 
