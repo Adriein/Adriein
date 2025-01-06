@@ -4,8 +4,6 @@
 
 🏗 Now I'm building complex enterprise applications with the invaluable help of clean architectures.
 
-🌱 Addicted to create useful products.  
-
 ## Current projects
 
 >🤖 [Tibia bot](https://github.com/Adriein/ac-bot-v2) - A full feature Pixel Bot
